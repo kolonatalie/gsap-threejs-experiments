@@ -1,5 +1,5 @@
-[![Interactive Header Sequence](/interactive-header-sequence-gsap3/images/interactive-header-demo.gif)](https://codepen.io/kolonatalie/pen/RNWxMBw)
-# 🌿 Interactive Header Sequence | GSAP3 | [Live Demo]()
+[![Interactive Header Sequence](/interactive-header-sequence-gsap3/images/interactive-header-demo.gif)](https://codepen.io/kolonatalie/pen/wBGQeJw)
+# 🌿 Interactive Header Sequence | GSAP3 | [Live Demo](https://codepen.io/kolonatalie/pen/wBGQeJw)
 
 This project focused on mastering the fundamentals of the **GreenSock Animation Platform (GSAP)** for high-performance web animations.
 
