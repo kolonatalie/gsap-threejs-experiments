@@ -21,7 +21,7 @@ As a career-switcher with a background in AR/3D content creation, I focus on int
 
 | Demo Project | Technologies | Focus & Demonstrated Skill | Status | Live Preview |
 | :--- | :--- | :--- | :--- | :--- |
-| [`Interactive Header Sequence`](/interactive-header-sequence-gsap3) | GSAP, HTML/CSS | Sequenced entry animation on page load, performance use of `transform`. | $$Completed$$ | **[Live Demo](https://codepen.io/kolonatalie/pen/empVQay)** |
+| [`Interactive Header Sequence`](/interactive-header-sequence-gsap3) | GSAP, HTML/CSS | Sequenced entry animation on page load, performance use of `transform`. | $$Completed$$ | **[Live Demo](https://codepen.io/kolonatalie/pen/wBGQeJw)** |
 
 ---
 
