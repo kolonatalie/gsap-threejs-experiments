@@ -1,5 +1,5 @@
-[![Interactive Header Sequence](/bunny-jumper/images/demo-bunny.gif)]()
-# Bunny Jumper Animation | GSAP3 | [Live Demo]()
+[![Interactive Header Sequence](/bunny-jumper/images/demo-bunny.gif)](https://codepen.io/kolonatalie/pen/jEqdWxw)
+# Bunny Jumper Animation | GSAP3 | [Live Demo](https://codepen.io/kolonatalie/pen/jEqdWxw)
 
 A dynamic web animation showcasing a bunny jumping in and out of a hole, built using **GSAP (GreenSock Animation Platform)**. This project is a demonstration of core animation techniques and sequencing, aimed at mastering web motion for frontend development.
 

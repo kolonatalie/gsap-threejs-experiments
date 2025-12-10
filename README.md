@@ -21,7 +21,7 @@ As a career-switcher with a background in AR/3D content creation, I focus on int
 
 | Demo Project | Technologies | Focus | Status | Live Preview |
 | :--- | :--- | :--- | :--- | :--- |
-| [`Bunny Jumper Animation`](/bunny-jumper/) | GSAP, HTML/CSS | A dynamic web animation showcasing a bunny jumping in and out of a hole. | $$Completed$$ | **[Live Demo]()** |
+| [`Bunny Jumper Animation`](/bunny-jumper/) | GSAP, HTML/CSS | A dynamic web animation showcasing a bunny jumping in and out of a hole. | $$Completed$$ | **[Live Demo](https://codepen.io/kolonatalie/pen/jEqdWxw)** |
 | [`Interactive Header Sequence`](/interactive-header-sequence-gsap3) | GSAP, HTML/CSS | Sequenced entry animation on page load, performance use of `transform`. | $$Completed$$ | **[Live Demo](https://codepen.io/kolonatalie/pen/empVQay)** |
 
 ---
