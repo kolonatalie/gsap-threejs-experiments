@@ -1,0 +1,74 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+* {
+  position: relative;
+}
+
+body {
+  margin: 0;
+  background: #e1a8c6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+main {
+  border-style: solid;
+  border-width: 15px;
+  border-top-color:rgb(245, 223, 205);
+  border-right-color: rgb(228, 191, 158);
+  border-bottom-color:rgb(196, 147, 104);
+  border-left-color: rgb(236, 202, 172);
+  box-shadow: 4px 16px 16px -4px rgba(103, 27, 67, 0.7),
+  inset 0 0 5px 0 rgb(131, 108, 84),
+  inset 0 0 0 30px white,
+  inset 0 0 5px 30px rgb(190, 171, 130);
+  width: 400px;
+  height: 500px;
+  background: rgb(243, 221, 206);
+}
+
+.bunny {
+  position: absolute;
+  width: 100px;
+  bottom: 0;
+  transform:translateX(150px);
+}
+
+.bunnyWrapper {
+  width: 100%;
+  height: 405px;
+  /* border:1px solid red;  */
+  overflow: hidden;
+  border-radius:  45%;
+}
+
+
+
+.hole {
+  position: absolute;
+  width: 150px;
+  height: 20px;
+  border-radius:50%;
+  background: rgb(198, 20, 115);
+  box-shadow: inset 0 -5px 10px 5px rgb(112, 5, 62);
+  transform: translateX(125px) translateY(390px);
+  left: 0;
+  top: 0;
+}
+
+.shadow {
+  opacity: 0;
+  position: absolute;
+  width: 150px;
+  height: 20px;
+  left: 0;
+  top: 0;
+  transform: translateX(125px) translateY(390px);
+  background: radial-gradient(rgba(124, 1, 93, 0.5), rgb(0, 0, 0, 0) 75%);
+  background-repeat: no-repeat;
+}
