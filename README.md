@@ -56,8 +56,9 @@ I'm always open to feedback, collaboration, and connecting with fellow developer
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-563D6F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kolonatalie/)
 [![Discord Badge](https://img.shields.io/badge/Discord-8A62B3?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/prqvsDRdNk)
-[![Mastodon Badge](https://img.shields.io/badge/Mastodon-A575D4?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@kolonatalie)
-[![Bluesky Badge](https://img.shields.io/badge/Bluesky-704F91?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/kolonatalie.bsky.social)
+[![X Badge](https://img.shields.io/badge/X-B575D4?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dev_kolonatalie)
+[![Bluesky Badge](https://img.shields.io/badge/Bluesky-A575D4?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/kolonatalie.bsky.social)
+[![Mastodon Badge](https://img.shields.io/badge/Mastodon-704F91?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@kolonatalie)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-3D2B4F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kolonatalie)
 
 ---
