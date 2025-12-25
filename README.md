@@ -3,26 +3,26 @@
   <h1>GSAP • Three.js • WebGL • Experiments</h1>
 </div>
 
-This repository is dedicated to my structured learning and experimentation with high-performance web animation and 3D graphics.
+This repository is dedicated to my structured learning and experimentation with high-performance **web animation** and **3D graphics**.
 
 As a career-switcher with a background in AR/3D content creation, I focus on integrating these visual libraries with clean JavaScript and CSS architecture.
 
 ## Key Focus Areas
 
-* **GSAP Mastery:** Practicing sequence control, custom easing, and scroll-triggered animations.
+* Practicing sequence control, custom easing, and scroll-triggered animations using **GSAP**
 
-* **Clean Integration:** Demonstrating how to properly integrate Canvas-based visuals **(Three.js)** with standard HTML/CSS layers.
+* Demonstrating how to properly integrate Canvas-based visuals **(Three.js)** with standard HTML/CSS layers.
 
-* **Performance Optimization:** Ensuring all animations (GSAP and WebGL) run smoothly, minimizing layout thrashing and reflows.
+* Ensuring all animations (GSAP and WebGL) **run smoothly**, minimizing layout thrashing and reflows.
 
 
 
 ## 🟣 Repo Index
 
-| Demo Project | Technologies | Focus | Status | Live Preview |
-| :--- | :--- | :--- | :--- | :--- |
-| [`Bunny Jumper Animation`](/bunny-jumper/) | GSAP, HTML/CSS | A dynamic web animation showcasing a bunny jumping in and out of a hole. | $$Completed$$ | **[Live Demo](https://codepen.io/kolonatalie/pen/jEqdWxw)** |
-| [`Interactive Header Sequence`](/interactive-header-sequence-gsap3) | GSAP, HTML/CSS | Sequenced entry animation on page load, performance use of `transform`. | $$Completed$$ | **[Live Demo](https://codepen.io/kolonatalie/pen/empVQay)** |
+| Project Folder | Focus & Tech | Status | Live Preview |
+| :--- | :--- | :--- | :--- |
+| [**`Bunny Jumper Animation`**](/bunny-jumper/) | A dynamic web animation showcasing a bunny jumping in and out of a hole. *GSAP, HTML/CSS* | $$Completed$$ | **[Live Demo](https://codepen.io/kolonatalie/pen/jEqdWxw)** |
+| [**`Interactive Header Sequence`**](/interactive-header-sequence-gsap3) | Sequenced entry animation on page load, performance use of `transform`. *GSAP, HTML/CSS* | $$Completed$$ | **[Live Demo](https://codepen.io/kolonatalie/pen/empVQay)** |
 
 ---
 
@@ -46,7 +46,7 @@ As a career-switcher with a background in AR/3D content creation, I focus on int
 These demos are part of my wider professional ecosystem, aimed at securing my first Junior Front-end role.
 
 * ### **[Frontend Practice Projects ](https://github.com/kolonatalie/frontend-practice-projects) (Portfolio Index)**
-The central repository showcasing my fundamental projects and full project list.
+  * *The central repository showcasing my fundamental projects and full project list.*
 
 ---
 
