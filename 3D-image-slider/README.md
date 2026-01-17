@@ -1,5 +1,5 @@
 ![3D Interactive Carousel | GSAP & CSS Variables](./images/demo.gif)
-# 3D Interactive Carousel | GSAP & CSS Variables
+# 3D Interactive Carousel | GSAP & CSS Variables | [Live demo](https://codepen.io/kolonatalie/pen/JoKWpaR)
 
 This project focuses on fluid motion, mathematical precision in CSS, and interactive state management using GSAP.
 
