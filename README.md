@@ -19,11 +19,12 @@ As a career-switcher with a background in AR/3D content creation, I focus on int
 
 ## 🟣 Repo Index
 
-| Project Folder | Focus & Tech | Status | Live Preview |
-| :--- | :--- | :--- | :--- |
-| [**`3D Image Slider`**](/3D-image-slider/) | Interactive Carousel. *GSAP & CSS Variables* | $$Completed$$ | **[Live Demo](https://codepen.io/kolonatalie/pen/JoKWpaR)** |
-| [**`Bunny Jumper Animation`**](/bunny-jumper/) | A dynamic web animation showcasing a bunny jumping in and out of a hole. *GSAP, HTML/CSS* | $$Completed$$ | **[Live Demo](https://codepen.io/kolonatalie/pen/jEqdWxw)** |
-| [**`Interactive Header Sequence`**](/interactive-header-sequence-gsap3) | Sequenced entry animation on page load, performance use of `transform`. *GSAP, HTML/CSS* | $$Completed$$ | **[Live Demo](https://codepen.io/kolonatalie/pen/empVQay)** |
+| Project Folder | Focus & Tech | Live Preview |
+| :--- | :--- | :--- |
+| [**`primitive-3D-shape`**](/primitive-3D-shape/) | Three.js PBR & GSAP Interaction Lab | **[Live Demo]()** |
+| [**`3D Image Slider`**](/3D-image-slider/) | Interactive Carousel. *GSAP & CSS Variables* | **[Live Demo](https://codepen.io/kolonatalie/pen/JoKWpaR)** |
+| [**`Bunny Jumper Animation`**](/bunny-jumper/) | A dynamic web animation showcasing a bunny jumping in and out of a hole. *GSAP, HTML/CSS* | **[Live Demo](https://codepen.io/kolonatalie/pen/jEqdWxw)** |
+| [**`Interactive Header Sequence`**](/interactive-header-sequence-gsap3) | Sequenced entry animation on page load, performance use of `transform`. *GSAP, HTML/CSS* | **[Live Demo](https://codepen.io/kolonatalie/pen/empVQay)** |
 
 ---
 
