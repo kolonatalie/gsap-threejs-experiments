@@ -3,28 +3,20 @@
   <h1>GSAP • Three.js • WebGL • Experiments</h1>
 </div>
 
-This repository is dedicated to my structured learning and experimentation with high-performance **web animation** and **3D graphics**.
+This repository is dedicated to my structured learning and experimentation with high-performance **web animation** and interactive **3D graphics**.
 
-As a career-switcher with a background in AR/3D content creation, I focus on integrating these visual libraries with clean JavaScript and CSS architecture.
+Leveraging my background in AR/3D design, I focus on mastering Three.js, WebGL, and GSAP with an emphasis on clean code and performance optimization.
 
-## Key Focus Areas
-
-* Practicing sequence control, custom easing, and scroll-triggered animations using **GSAP**
-
-* Demonstrating how to properly integrate Canvas-based visuals **(Three.js)** with standard HTML/CSS layers.
-
-* Ensuring all animations (GSAP and WebGL) **run smoothly**, minimizing layout thrashing and reflows.
-
-
+---
 
 ## 🟣 Repo Index
 
-| Project Folder | Focus & Tech | Live Preview |
+|  |  |  |
 | :--- | :--- | :--- |
 | [**`primitive-3D-shape`**](/primitive-3D-shape/) | Three.js PBR & GSAP Interaction Lab | **[Live Demo](https://threejs-primitive.vercel.app)** |
 | [**`3D Image Slider`**](/3D-image-slider/) | Interactive Carousel. *GSAP & CSS Variables* | **[Live Demo](https://codepen.io/kolonatalie/pen/JoKWpaR)** |
 | [**`Bunny Jumper Animation`**](/bunny-jumper/) | A dynamic web animation showcasing a bunny jumping in and out of a hole. *GSAP, HTML/CSS* | **[Live Demo](https://codepen.io/kolonatalie/pen/jEqdWxw)** |
-| [**`Interactive Header Sequence`**](/interactive-header-sequence-gsap3) | Sequenced entry animation on page load, performance use of `transform`. *GSAP, HTML/CSS* | **[Live Demo](https://codepen.io/kolonatalie/pen/empVQay)** |
+| [**`Interactive Header Sequence`**](/interactive-header-sequence-gsap3/) | Sequenced entry animation on page load, performance use of `transform`. *GSAP, HTML/CSS* | **[Live Demo](https://codepen.io/kolonatalie/pen/empVQay)** |
 
 ---
 
