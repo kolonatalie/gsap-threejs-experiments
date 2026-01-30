@@ -1,9 +1,10 @@
 ![Three.js PBR & GSAP Interaction Lab](./images/demo-3D.gif)
-# Three.js PBR & GSAP Interaction Lab | [Live Demo]()
+# Three.js PBR & GSAP Interaction Lab | [Live Demo](https://threejs-primitive.vercel.app)
 
 A focused experiment on physically-based rendering (PBR) and smooth animations using Three.js and GSAP.
 
 ## Features
+- **Cross-platform Interaction**: Implemented universal Pointer Events for seamless experience across desktop and mobile touchscreens.
 - **Interactive Raycasting**: Real-time collision detection that triggers dynamic HSL color shifts on user click.
 - **PBR Materials**: Implementing `MeshStandardMaterial` with high metalness and custom roughness.
 - **Environment Lighting**: Using `PMREMGenerator` and `RoomEnvironment` for realistic reflections.

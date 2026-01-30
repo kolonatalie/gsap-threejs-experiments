@@ -85,7 +85,7 @@ gsap.to(mesh.rotation, {
 const raycaster = new THREE.Raycaster();
 const pointer = new THREE.Vector2();
 
-window.addEventListener('click', (event) => {
+window.addEventListener('pointerdown', (event) => {
   pointer.x = (event.clientX / window.innerWidth) * 2 - 1;
   pointer.y = -(event.clientY / window.innerHeight) * 2 + 1;
 
